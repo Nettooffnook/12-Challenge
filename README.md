@@ -5,7 +5,7 @@
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Visuals](#visuals)
+  - [Sources](#sources)
   - [License](#license)
   - [Contributing](#contributing)
   - [Questions](#questions)
@@ -18,8 +18,8 @@
   To run the application:
   1. Navigate to the repository folder in the command line/terminal
   2. Run `npm start`
-  ## Visuals
-  Here are some visuals of the Company-Database interface.
+  ## Sources
+  Used Stackoverflow to help with code connecting to database
   
   ## License
   This project is covered under the MIT license.
